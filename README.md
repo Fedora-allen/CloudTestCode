@@ -1,2 +1,2 @@
 # CloudTestCode
-主要用于存放CloudTestCode测试代码
+主要用于存放CloudTest测试代码
